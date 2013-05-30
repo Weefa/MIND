@@ -1,3 +1,5 @@
+MIND
+====
 > Bring your thoughts into reality in and overpower opponents. MIND challenges the greatest imaginations from every corner of the globe to compete in a battle of concentration and discipline.
 
 MIND is a card game where participating **Thinkers** battle it out using powerful **Thought** and **Intellect** cards.
