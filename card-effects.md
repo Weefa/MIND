@@ -1,6 +1,3 @@
-Card Effects
-===
-
 # Thought Effects
 Thought effects follow the pattern of "Condition, action". Negative effects increase the base power of the Thought, while positive effects decrease it. Effect names should summarize the effect in 1-4 words.
 
@@ -8,17 +5,17 @@ Thought effects follow the pattern of "Condition, action". Negative effects incr
 
 * **P-8 | Active Mind Control:**	 While in play, take control of an opposing Thought.
 
-* **P-4 | Direct-challenge Power-up:** While challenging a Thinker directly, the Power of this Thought doubles.
+* **P-4 | Direct-challenge Power-up:** While challenging a Thinker, the Power of this Thought doubles.
 
-* **P-4 | End Guard:** When a turn ends, disengage this Thought or Group.
+* **P-4 | End Guard:** When a turn ends, Disengage this Thought or Group.
 
 * **P+16 | Engaged Penalty	:** While Engaged, you may only Disengage this Thought or Group during Recovery by removing one other Thought you control.
 
 * **P-6 | Offensive Power-up	:** While challenging, the Power of this Thought doubles.
 
-* **P+8 | Offensive Misdirection:** When challenging with this Thought or Group, your opponent chooses the target of the challenge.
+* **P+8 | Offensive Misdirection:** When declaring a challenge with this Thought or Group, your opponent chooses the target of the challenge.
 
-* **P+32 | Post-challenge Discard:** 	When this card resolves a challenge remove it from play.
+* **P+32 | Post-challenge Discard:** When this card resolves a challenge remove it from play.
 
 * **P-8 | Thoughtless Recollect:** When you have no other Thoughts in play, this card may be played from the Discard pile.
 
@@ -27,13 +24,13 @@ Intellect effects follow the pattern of "Scope, effect". Every Intellect effect 
 
 * **C2 | Continuos Overload:	** Continuously increase the Cost of all opposing Thoughts by 1.
 
-* **C3 | Counter Brace:** Temporarily increase your Breaking Point by the total Power of a target Thought or Group.
+* **C3 | Counter Brace:** Temporarily increase your Break Point by the total Power of a target Thought or Group.
 
-* **C2 | Defeated Recall	:** Immediately send a Thought to your hand, instead of the Discard pile after it is removed.
+* **C2 | Defeated Recall	:** Immediately send a Thought to your hand, instead of the Discard pile, after it is removed.
 
-* **C3 | Disengage:** Immediately disengage a target Thought or Group.
+* **C3 | Disengage:** Immediately Disengage a target Thought or Group.
 
-* **C3 | Focus:** Temporarily double your own Breaking Point.
+* **C3 | Focus:** Temporarily double your own Break Point.
 
 * **C2 | Mind Control:** Temporarily gain control of an opposing Thought, and, if it is Engaged, Disengage it.
 
@@ -45,7 +42,7 @@ Intellect effects follow the pattern of "Scope, effect". Every Intellect effect 
 
 * **C2 | Nullify:** Continuously negate the effect of a target Thought in play.
 
-* **C1 | Power-amp IV:** Temporarily increase the Power of all Thoughts you control by 6.
+* **C1 | Power-amp IV:** Temporarily increase the Power of all Thoughts you control by 4.
 
 * **C1 | Power-down:** Temporarily halve the Power of a target Thought or Group.
 
