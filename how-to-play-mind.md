@@ -21,9 +21,8 @@ Your turn is divided up into three steps **Recover**, **Play**, and **Challenge*
 3. **Disengage** all of your Engaged Thoughts in play
 
 [picture of Disengaging]
-
 ## Play Step
-There are a three actions you may perform on the play step:
+
 1. **Remove cards** you have in play that you no longer need 
 2. **Play Thoughts** from your hand
 3. **Group or Ungroup** your Thoughts to make them stronger
@@ -31,7 +30,8 @@ There are a three actions you may perform on the play step:
 [picture of grouping]
 
 ## Challenge Step
-During your Challenge Step you can Engage your Thoughts to declare a Challenge. You may:
+During your Challenge Step you can Engage your Thoughts to declare a Challenge. You may choose to:
+
 * **Challenge other Groups or Thoughts** your opponent has in play to remove them from play
 * **Challenge your opponent directly** to try and break a Focus counter
 
@@ -56,8 +56,8 @@ There are three types of cards, each played differently throughout a game.
 
 ## Thinker
 Thinker cards are played at the beginning of the each game. They display the player’s Breaking Point, Memory, and Effect.
-* **Break:** how powerful a direct challenge must be in order to break a Focus counter
 * **Memory:**  limit of cards you can have out in play at once
+* **Break:** how powerful a direct challenge must be in order to break a Focus counter
 * **Effect:** special rules for this Thinker
 
 ![Picture of a MIND Thinker Card](http://i.imgur.com/c02hP7O.png)
@@ -108,6 +108,7 @@ You can declare challenges to either:
 * Destroy your opponent's Focus counters
 
 To declare a challenge you’ll need a *Disengaged* Thought or Group. A challenge is made up of three steps:
+
 1. ***Engage* your Thought or Group** by turning the card on its side
 2. **Declare a target** that can be an opposing Thought, Group, or Thinker
 3. **Resolve the challenge** by figuring out who won the challenge
