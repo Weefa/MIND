@@ -22,7 +22,7 @@ Thought effects follow the pattern of "Condition, action". Negative effects incr
 # Intellect Effects
 Intellect effects follow the pattern of "Scope, effect". Every Intellect effect must have a Memory Cost. Effect names should summarize the effect in 1-4 words.
 
-* **C2 | Continuos Overload:	** Continuously increase the Cost of all opposing Thoughts by 1.
+* **C2 | Continuos Overload:** Continuously increase the Cost of all opposing Thoughts by 1.
 
 * **C3 | Counter Brace:** Temporarily increase your Break Point by the total Power of a target Thought or Group.
 
