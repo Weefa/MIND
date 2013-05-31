@@ -20,14 +20,13 @@ Your turn is divided up into three steps **Recover**, **Play**, and **Challenge*
 2. **Draw** until you have a maximum of 5 cards in your hand
 3. **Disengage** all of your Engaged Thoughts in play
 
-[picture of Disengaging]
+![Picture of Disengage and Engaged card states](http://i.imgur.com/K8xQEkm.png)
+
 ## Play Step
 
 1. **Remove cards** you have in play that you no longer need 
 2. **Play Thoughts** from your hand
 3. **Group or Ungroup** your Thoughts to make them stronger
-
-[picture of grouping]
 
 ## Challenge Step
 During your Challenge Step you can Engage your Thoughts to declare a Challenge. You may choose to:
@@ -35,7 +34,7 @@ During your Challenge Step you can Engage your Thoughts to declare a Challenge. 
 * **Challenge other Groups or Thoughts** your opponent has in play to remove them from play
 * **Challenge your opponent directly** to try and break a Focus counter
 
-[picture of challenging]
+![picture of challenging](http://i.imgur.com/ZXaVvhn.png)
 
 Let's take a look at how to set up a game.
 
@@ -49,7 +48,7 @@ To begin you’ll need two players, each with a deck of **20 unique cards** and 
 
 That's all, you're now ready to begin.
 
-[Picture of a MIND game set up]
+![Picture of a MIND game set up](http://i.imgur.com/BHT1mVa.png)
 
 # Card types
 There are three types of cards, each played differently throughout a game.
@@ -100,7 +99,7 @@ During your Play Step, you may group, ungroup, or regroup your Disengaged Though
 
 Grouping allows your Thoughts to challenge as a single unit with a combined Power. Grouped Thoughts are considered a single target.
 
-[Picture of a Thought group]
+![Picture of a Thought group](http://i.imgur.com/LXn1ANb.png)
 
 # Declaring a Challenge
 You can declare challenges to either:
@@ -137,8 +136,6 @@ After the target for a challenge has been declared, you may choose to block with
 ## Miss
 When the target of a challenge is removed the challenge misses. When a challenge misses its outcome is negated and the challenger(s) remain Engaged.
 
-[Picture of a miss]
-
 # Playing Intellects
 Intellects can be played at any time during any turn. The intellect last played gets resolved first. Intellects stay in play until their effect is resolved.
 
@@ -150,7 +147,7 @@ The intellect’s effect will define how long the card stays in play, this is ca
 * **Temporary:** Until the end of this turn or until the card is removed
 * **Immediate:** Resolved right away and then removed from play
 
-[Examples of the three Scope types]
+![Examples of the three Scope types](http://i.imgur.com/H9MVhBv.png)
  
 # Victory
 That’s it! Alternate turns until a single player remains with Focus counters.
