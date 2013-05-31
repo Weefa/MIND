@@ -100,11 +100,13 @@ Grouping allows your Thoughts to challenge as a single unit with a combined Powe
 ![Picture of a Thought group](http://i.imgur.com/LXn1ANb.png)
 
 # Declaring a Challenge
-You can declare challenges to either:
-1. Remove your opponent's Thoughts in play
-2. Destroy your opponent's Focus counters
 
 ![picture of challenging](http://i.imgur.com/ZXaVvhn.png)
+
+You can declare challenges to either:
+
+1. Remove your opponent's Thoughts in play
+2. Destroy your opponent's Focus counters
 
 To declare a challenge you’ll need a *Disengaged* Thought or Group. A challenge is made up of three steps:
 
