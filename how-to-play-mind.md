@@ -34,8 +34,6 @@ During your Challenge Step you can Engage your Thoughts to declare a Challenge. 
 * **Challenge other Groups or Thoughts** your opponent has in play to remove them from play
 * **Challenge your opponent directly** to try and break a Focus counter
 
-![picture of challenging](http://i.imgur.com/ZXaVvhn.png)
-
 Let's take a look at how to set up a game.
 
 # Starting a game
@@ -82,7 +80,7 @@ During your recovery step you **may discard any number of card you initially dre
 The first player to take the first turn also skips the Challenge step.
 
 # Running out of cards to draw
-Careful when discarding cards! If you do not have enough cards left to draw on your Recover step, destroy one of your Focus counters, and reshuffle your discard pile back into your deck.
+If you do not have enough cards left to draw on your Recover step, destroy one of your Focus counters, and reshuffle your discard pile back into your deck. So be careful when discarding too many cards!
 
 # Playing Thoughts
 As long as you don't exceed your Memory, you may play any number of Thoughts from your hand on to the play area. While a card is in play, its Cost is deducted from your total available Memory.
@@ -103,8 +101,10 @@ Grouping allows your Thoughts to challenge as a single unit with a combined Powe
 
 # Declaring a Challenge
 You can declare challenges to either:
-* Remove your opponent's Thoughts in play
-* Destroy your opponent's Focus counters
+1. Remove your opponent's Thoughts in play
+2. Destroy your opponent's Focus counters
+
+![picture of challenging](http://i.imgur.com/ZXaVvhn.png)
 
 To declare a challenge you’ll need a *Disengaged* Thought or Group. A challenge is made up of three steps:
 
