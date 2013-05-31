@@ -11,7 +11,7 @@ Thought effects follow the pattern of "Condition, action". Negative effects incr
 
 * **Engaged Penalty** | P+16 | While Engaged, you may only Disengage this Thought or Group during Recovery by removing one other Thought you control.
 
-* **Offensive Power-up	** | P-6 | While challenging, the Power of this Thought doubles.
+* **Offensive Power-up** | P-6 | While challenging, the Power of this Thought doubles.
 
 * **Offensive Misdirection** | P+8 | When declaring a challenge with this Thought or Group, your opponent chooses the target of the challenge.
 
